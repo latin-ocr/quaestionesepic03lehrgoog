@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesepic03lehrgoog_0320.png"; bbox 0 0 2774 4822; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 347 1735 1230 1943">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 170 1735 1230 1972">
+     <span class='ocr_line' id='line_1_1' title="bbox 347 1735 1230 1943; baseline 0.027 -49.158"><span class='ocrx_word' id='word_1_1' title='bbox 347 1768 784 1943; x_wconf 74' lang='lat' dir='ltr'><strong>Dissertatio</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 825 1773 922 1902; x_wconf 79' lang='lat' dir='ltr'><strong>v.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 999 1735 1012 1747; x_wconf 67' lang='grc'><strong>’“</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1134 1916 1141 1930; x_wconf 76' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1229 1861 1230 1874; x_wconf 30' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 545 2066 717 2090">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 545 2066 717 2090">
+     <span class='ocr_line' id='line_1_2' title="bbox 545 2066 717 2090; baseline 0.035 -3"><span class='ocrx_word' id='word_1_6' title='bbox 545 2066 717 2090; x_wconf 62' lang='lat' dir='ltr'><strong>ann-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 87 2207 1223 2512">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 87 2177 1223 2512">
+     <span class='ocr_line' id='line_1_3' title="bbox 87 2207 1223 2374; baseline 0.009 -56"><span class='ocrx_word' id='word_1_7' title='bbox 87 2239 184 2374; x_wconf 63' lang='lat' dir='ltr'><strong>De&#39;</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 217 2207 659 2356; x_wconf 16' lang='lat' dir='ltr'><strong>Htalieuticbrum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 704 2243 756 2354; x_wconf 62' lang='lat' dir='ltr'><strong>pt</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 795 2231 1172 2356; x_wconf 69' lang='lat' dir='ltr'>cynegetico-</span> <span class='ocrx_word' id='word_1_11' title='bbox 1219 2359 1223 2369; x_wconf 88' lang='lat'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 204 2384 893 2512; baseline 0.022 -35"><span class='ocrx_word' id='word_1_12' title='bbox 204 2384 209 2402; x_wconf 79' lang='lat'><em>&#39;</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 369 2423 480 2484; x_wconf 84' lang='lat' dir='ltr'><strong>rum</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 509 2390 893 2512; x_wconf 77' lang='lat' dir='ltr'>discrepantia.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1392 4822">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1392 4822">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1392 4822; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1392 4822; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
